@@ -3,9 +3,13 @@
 
 𝗜'𝗺 [LoneWolfC7](https://github.com/LoneWolfC7)！𝗜'𝗺 𝗮 𝗰𝗼𝗹𝗹𝗲𝗴𝗲 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗰𝗼𝗱𝗶𝗻𝗴.
 
-![LoneWolfC7's GitHub stats](https://github-readme-stats-chi-flax-53.vercel.app/api?username=LoneWolfC7)
-[![Top Langs](https://github-readme-stats-chi-flax-53.vercel.app/api/top-langs/?username=LoneWolfC7)](https://github.com/anuraghazra/github-readme-stats)
+<!--![LoneWolfC7's GitHub stats](https://github-readme-stats-chi-flax-53.vercel.app/api?username=LoneWolfC7)
+'[![Top Langs](https://github-readme-stats-chi-flax-53.vercel.app/api/top-langs/?username=LoneWolfC7)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<div align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</div>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lonewolfc7@gmail.com)](mailto:lonewolfc7@gmail.com)
 [![Zhihu Badge](https://img.shields.io/badge/-Zhihu-0084FF?style=flat-square&logo=Zhihu&logoColor=white&link=https://www.zhihu.com/people/suan-cun)](https://www.zhihu.com/people/suan-cun)
